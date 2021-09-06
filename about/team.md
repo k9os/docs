@@ -14,7 +14,7 @@ description: >-
 * Student of sport obedience training. 
 * Student of decoying for sport, personal protection and, local law enforcement k9s \(31 different teams\). 
 
-> I'm hoping to take two things I'm passionate about and merge them to further educate myself and the community efficiently through skills I learned over my career in information technology. Systems should be designed with decisions records, delivery practices, testing, and measurable metrics to show progress—all with the relentless pursuit of continuous improvement.
+> I'm hoping to take two things I'm passionate about and merge them to further educate myself and the community efficiently through skills I learned during my career in information technology. Systems should be designed with decisions records, delivery practices, testing, and measurable metrics to show progress—all with the relentless pursuit of continuous improvement.
 
 
 
