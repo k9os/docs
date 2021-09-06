@@ -9,7 +9,7 @@ description: >-
 
 ### Open Source
 
-[Open source](https://www.redhat.com/en/topics/open-source/what-is-open-source) is a term that originally referred to open source software for computer systems. It has since become a way of working that reaches out beyond the scope of software production. We can use this model to find new ways to solve problems in our industry.
+[Open source](https://en.wikipedia.org/wiki/Open_source) is a term that originally referred to open source software for computer systems. It has since become a way of working that reaches out beyond the scope of software production. We can use this model to find new ways to solve problems in our industry.
 
 ### Peer Production
 
