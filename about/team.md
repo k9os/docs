@@ -1,7 +1,7 @@
 ---
 description: >-
   This is a self-organizing community of individuals contributing their time to
-  a shared goal of improving the K9 Open Source training system.
+  a shared goal of improving the training system.
 ---
 
 # Team
