@@ -7,6 +7,10 @@ description: >-
 
 # Welcome!
 
+{% hint style="info" %}
+The concepts and information on this site are currently in the design phases. 
+{% endhint %}
+
 ### Open Source
 
 [Open source](https://en.wikipedia.org/wiki/Open_source) is a term that originally referred to open source software for computer systems. It has since become a way of working that reaches out beyond the scope of software production. We can use this model to find new ways to solve problems in our industry.
