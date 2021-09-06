@@ -5,7 +5,7 @@ description: >-
   training system over time through peer production.
 ---
 
-# About
+# Welcome!
 
 ### Open Source
 
