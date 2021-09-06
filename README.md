@@ -1,6 +1,6 @@
 ---
 description: >-
-  K9 Open Source is a publicly accessible K9 Training System, anyone can see,
+  K9 Open Source is a publicly accessible K9 training system, anyone can see,
   modify and distribute as they see fit with a shared goal of improving the
   training system over time through peer production.
 ---
