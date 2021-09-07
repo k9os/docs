@@ -6,8 +6,7 @@
 
 * [Team](about/team.md)
 * [Delivery](about/delivery.md)
+* [Language](about/language.md)
 
 ## Training
-
-* [Language](training/language.md)
 
