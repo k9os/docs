@@ -30,5 +30,9 @@ Working in small batches has many benefits. It reduces the time it takes to get 
 
 Continuous improvement is a practice inspired by the Japanese concept of “Kaizen.” It suggests subtle and gradual improvement achieved over time. Treats Improvement work as an essential part of daily work, where nobody is satisfied with the status quo.
 
+{% hint style="info" %}
+These ideas and concepts come from [continuous delivery principles](https://continuousdelivery.com/principles).
+{% endhint %}
+
 
 
