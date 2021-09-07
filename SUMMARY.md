@@ -4,8 +4,8 @@
 
 ## About
 
-* [Delivery](about/delivery.md)
 * [Team](about/team.md)
+* [Delivery](about/delivery.md)
 
 ## Training
 
