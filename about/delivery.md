@@ -1,5 +1,7 @@
 ---
-description: The ability to get behavioral changes into the k9 safely and quickly.
+description: >-
+  The ability to get changes, behavioral or environmental into the k9 safely and
+  quickly.
 ---
 
 # Delivery
