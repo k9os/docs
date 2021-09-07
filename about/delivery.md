@@ -6,7 +6,7 @@ description: >-
 
 # Delivery
 
-With K9 training, it should be fair to say we are building an input-output system. In most cases, we provided the input as a handler, and in other cases, there is some outside source of input, both resulting in the desired output of the K9.
+With K9 training, it should be fair to say we are building an input-output system. In most cases, we provided the input as a handler, and in other cases, there is some outside source of input, both resulting in a desired output from the K9.
 
 ### Principals
 
