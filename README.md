@@ -8,7 +8,7 @@ description: >-
 # Welcome!
 
 {% hint style="info" %}
-The concepts and information on this site are currently in the design phases. 
+The concepts and information on this site are currently in the design phases. It is currently targeted at people interested in dissecting the details in current K9 training methods and organizing them in a way where we can successfully communicate and iterate on.
 {% endhint %}
 
 ### Open Source
