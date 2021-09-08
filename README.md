@@ -7,6 +7,8 @@ description: >-
 
 # Welcome!
 
+A system designed to support the unique needs of each K9 and handler. Not by suggesting a single method, but several to reach the desired outcome.
+
 {% hint style="info" %}
 The concepts and information on this site are currently in the design phases. It is currently targeted at people interested in dissecting the details in current K9 training methods and organizing them in a way where we can successfully communicate and iterate on.
 {% endhint %}
