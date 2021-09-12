@@ -1,7 +1,8 @@
 ---
 description: >-
   This is a self-organizing community of individuals contributing their time to
-  a shared goal of improving the training system.
+  a shared goal of improving the training system. If you're interested in
+  contributing reach out to help@k9os.io!
 ---
 
 # Team

@@ -18,7 +18,7 @@ There are three principles at the heart of the delivery system:
 
 #### Build Quality in
 
-It’s easier to fix problems if we find them immediately—ideally before they cause a larger issue by running tests as early as possible.  Finding problems downstream is time-consuming, requiring significant triage. Then we must fix the problem, trying to recall what we thought when we introduced it.
+It’s easier to fix problems if we find them immediately—ideally before they cause a more significant issue by running tests as early as possible. These tests should not be at a level where avoidance might occur if applying various pressure to the k9. Finding problems downstream is time-consuming, requiring significant triage. Then we must fix the problem, trying to recall what we thought when we introduced it.
 
 Creating and evolving feedback loops to detect problems as early as possible is essential and never-ending work in the delivery system. If we find a problem downstream, we must not only fix it but then ask: How could we have caught the problem earlier?
 

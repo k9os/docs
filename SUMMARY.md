@@ -8,5 +8,7 @@
 * [Delivery](about/delivery.md)
 * [Language](about/language.md)
 
-## Training
+## Grip Development
+
+* [Nose Breathing](grip-development/nose-breathing.md)
 
