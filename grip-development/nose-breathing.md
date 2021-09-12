@@ -7,5 +7,5 @@ description: >-
 
 # Nose Breathing
 
-Studies show that during anaerobic \(without oxygen\) exercise it is common to see a switch from nasal breathing to oral-nasal breathing. That is attributed to the resistance of airflow through the nose. Nasal breathing converts air to temperatures near that of body temperature; increasing its humidity; and acting as a filter by extracting contaminants.
+Studies show that during anaerobic \(without oxygen\) exercise it is common to see a switch from nasal breathing to oral-nasal breathing. That is attributed to the resistance of airflow through the nose. Respiratory noises such as snorting are indicators of airway obstruction. 
 
