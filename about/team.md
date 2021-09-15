@@ -7,6 +7,10 @@ description: >-
 
 # Team
 
+> “Strong opinions, weakly held.”
+
+We are using intuition to guide us to a conclusion, no matter how imperfect. Next, we can prove ourselves wrong and engage in doubt. We are looking for information that doesn’t fit. Potentially indicators that point us in an entirely different direction. Ultimately, a new hypothesis will emerge, ready to go through the process once again.
+
 ### Technical Leads
 
 **Brett Curtis - \(Gorham Maine\)**
