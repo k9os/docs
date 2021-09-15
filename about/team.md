@@ -15,9 +15,9 @@ description: >-
 * Student of sport obedience training. 
 * Student of decoying for sport, personal protection and, local law enforcement k9s \(31 different teams\). 
 
+[Guinness](https://en.working-dog.com/dogs-details/6735945/VGuinnes-Noordrand-K-9) - [PSA](https://psak9-as.org): PDC \(10/10/2020\)
+
 > I'm excited to take two things I'm passionate about and merge them to further educate myself and the community efficiently through skills I learned during my career in information technology. Systems should be designed with decisions records, delivery practices, testing, and measurable metrics to show progress—all with the relentless pursuit of continuous improvement.
-
-
 
 ### Training Leads
 
