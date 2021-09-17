@@ -16,8 +16,8 @@ We are using intuition to guide us to a conclusion, no matter how imperfect. Nex
 **Brett Curtis - \(Gorham Maine\)**
 
 * 20 years in information technology dedicated to back-end infrastructure for software development. Focusing on enabling organizations for success by making the infrastructure as code \(IaC\) delivery process vastly more efficient.
-* Student of sport obedience training. 
-* Student of decoying for sport, personal protection and, local law enforcement k9s \(31 different teams\). 
+* 3-year student of sport obedience training. 
+* 3-year student of decoying for sport, personal protection and, local law enforcement k9s \(31 different teams\). 
 
 [Guinness](https://en.working-dog.com/dogs-details/6735945/VGuinnes-Noordrand-K-9) - [PSA](https://psak9-as.org): PDC \(10/10/2020\)
 
