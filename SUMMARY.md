@@ -10,5 +10,5 @@
 
 ## Grip Development
 
-* [Nose Breathing](grip-development/nose-breathing.md)
+* [Breathing](grip-development/breathing.md)
 
