@@ -7,7 +7,7 @@ description: >-
 
 # Welcome!
 
-![](.gitbook/assets/k9-os.png)
+![](.gitbook/assets/k9-open-source.png)
 
 A dog training system designed to support the unique needs of each dog and handler. Not by suggesting a single method, but several with documented drivers and trade-offs to reach the desired outcome. 
 
