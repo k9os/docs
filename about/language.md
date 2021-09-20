@@ -1,7 +1,7 @@
 ---
 description: >-
-  Ubiquitous language is the practice of building up a common, rigorous language
-  between trainers and handlers using the system.
+  Ubiquitous language is the practice of building up a standard, rigorous
+  language between trainers and the handlers using the system.
 ---
 
 # Language
