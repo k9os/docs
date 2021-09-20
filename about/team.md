@@ -25,5 +25,5 @@ We are using intuition to guide us to a conclusion, no matter how imperfect. Nex
 
 ## Training Leads
 
-If you're interested in contributing reach out to help@k9os.io! 
+If you're interested in contributing, reach out to help@k9os.io! 
 

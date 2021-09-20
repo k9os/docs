@@ -6,7 +6,7 @@ description: >-
 
 # Language
 
-The way we communicate with each other is important. Dog training is complex and can be broken down into several domains and contexts with a common language shared across those contexts. Ubiquitous language unites the community, eliminates inaccuracies and contradictions from domain experts, and evolves.
+The way we communicate with each other is important. Ubiquitous language unites the community, eliminates inaccuracies and contradictions from domain experts, and evolves. Dog training is complex; in this system, we will break it down into several domains and contexts with a standard language shared across those contexts.
 
 
 
