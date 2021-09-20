@@ -22,3 +22,7 @@
   * [Speed & Power](grip-development/entries/speed-and-power.md)
   * [Distance](grip-development/entries/distance.md)
 
+## Sport
+
+* [Protection Sports Association](sport/protection-sports-association.md)
+
