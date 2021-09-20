@@ -11,9 +11,9 @@
 ## Grip Development
 
 * [Introduction](grip-development/introduction.md)
-* [Bite](grip-development/bite/README.md)
-  * [Pressure](grip-development/bite/pressure.md)
-  * [Depth](grip-development/bite/depth.md)
-  * [Breathing](grip-development/bite/breathing.md)
-  * [Pushing](grip-development/bite/pushing.md)
+* [Bite Mechanics](grip-development/bite-mechanics/README.md)
+  * [Pressure](grip-development/bite-mechanics/pressure.md)
+  * [Depth](grip-development/bite-mechanics/depth.md)
+  * [Countering & Pushing](grip-development/bite-mechanics/countering-pushing.md)
+  * [Breathing](grip-development/bite-mechanics/breathing.md)
 
