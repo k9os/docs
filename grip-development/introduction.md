@@ -1,4 +1,4 @@
 # Introduction
 
-![](../.gitbook/assets/grip-development.drawio.svg)
+![](../.gitbook/assets/grip-development.drawio.png)
 
